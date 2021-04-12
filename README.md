@@ -1,2 +1,2 @@
 # CaptiveTreadmill
-a small brute force aplication for pentest of my college wifi
+a small brute force aplication for pentest of my college wifi captive portal
